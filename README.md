@@ -1,47 +1,15 @@
-# SOC Investigation Portfolio
-
-> **This repo is a template provided by the [SOC Simulation Project](https://www.skool.com/socsim/about).**
-> 
-> **To use it:** fork this repo to your own GitHub, remove this intro section, and fill in the profile below. Then start dropping your investigation reports in as you complete them.
 
 ---
 
-### How This Works
+# Olga Kharitonova — SOC Investigation Portfolio
 
-Each investigation you complete in the SOC Simulation lab gets its own report file — either the Markdown template (good for GitHub rendering) or the Word doc (good for filling in, converting to PDF, and attaching). Drop them into the relevant folder, update the index table below, and your portfolio builds itself over time.
-
-```
-soc-investigations/
-├── README.md
-├── alerts/
-│   ├── TEMPLATE.md
-│   └── [your completed alert investigations]
-└── bec/
-    ├── TEMPLATE.md
-    └── [your completed BEC investigations]
-```
-
-When someone visits your repo, this README is the first thing they see — so treat the section below as your cover page. Keep it honest and specific. A hiring manager who reads it should know exactly who you are, what you've worked on, and what you're aiming for.
-
----
----
-
-<!-- #################################################################### -->
-<!-- EVERYTHING ABOVE THIS LINE CAN BE DELETED ONCE YOU FORK THIS REPO    -->
-<!-- #################################################################### -->
-
----
-
-# [Your Name] — SOC Investigation Portfolio
-
-**`[City, Country]`** &nbsp;|&nbsp; **`[LinkedIn URL]`** &nbsp;|&nbsp; **`[Email (optional)]`**
+**`Sydney, Australia`** &nbsp;|&nbsp; **`https://www.linkedin.com/in/olga-kharitonova-62309824b/`** &nbsp;|&nbsp; **`olga.kharitonova01@gmail.com`**
 
 ---
 
 ## About Me
 
-<!-- 2-3 sentences. Who are you, where are you coming from, and what are you working toward?
-     Be direct — this isn't a cover letter, it's a quick orientation for whoever is reading. -->
+I'm an IT professional with hands-on experience in enterprise IT operations and a growing focus on cybersecurity. I'm developing practical skills in SOC operations, threat detection, log analysis, and incident investigation through hands-on security projects. I'm working toward transitioning into a cybersecurity role and continuing to develop my technical security skills.
 
 ---
 
