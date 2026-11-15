@@ -42,7 +42,7 @@ The investigations here demonstrate practical ability in:
 
 | # | Case Name | Date |
 |---|---|---|
-| 001 | | | |
+| 003 | [Project Huron](bec/Project-Huron.md) | 15 Nov 2026 |
 
 ---
 
